@@ -1,0 +1,29 @@
+.container {
+  padding: 24px;
+}
+.details {
+  display: flex;
+  gap: 24px;
+  margin-bottom: 24px;
+}
+.poster {
+  width: 200px;
+  border-radius: 8px;
+}
+.additional ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 16px;
+}
+.active {
+  color: #1976d2;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.goback {
+  display: inline-block;
+  margin-bottom: 16px;
+  color: #1976d2;
+  text-decoration: none;
+}

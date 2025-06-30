@@ -1,0 +1,18 @@
+.list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+.item {
+  width: 180px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.photo {
+  width: 100px;
+  border-radius: 8px;
+  margin-bottom: 8px;
+}
